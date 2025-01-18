@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PythonApiClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd1d297d7ba56a78b4e257153eb14cd95ac4417")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ee7fc4abc6c86ce1269bc151e45e04f33a394e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PythonApiClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PythonApiClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
