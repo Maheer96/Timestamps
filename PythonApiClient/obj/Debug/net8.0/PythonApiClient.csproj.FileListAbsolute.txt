@@ -1,0 +1,15 @@
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\bin\Debug\net8.0\PythonApiClient.exe
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\bin\Debug\net8.0\PythonApiClient.deps.json
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\bin\Debug\net8.0\PythonApiClient.runtimeconfig.json
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\bin\Debug\net8.0\PythonApiClient.dll
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\bin\Debug\net8.0\PythonApiClient.pdb
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.AssemblyInfoInputs.cache
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.AssemblyInfo.cs
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.csproj.CoreCompileInputs.cache
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.sourcelink.json
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.dll
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\refint\PythonApiClient.dll
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.pdb
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\PythonApiClient.genruntimeconfig.cache
+C:\Users\sachi\OneDrive\Desktop\Coding Projects\timestamps\PythonApiClient\obj\Debug\net8.0\ref\PythonApiClient.dll
