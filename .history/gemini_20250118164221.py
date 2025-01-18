@@ -22,4 +22,4 @@ def enhance_text(input_string):
 
 
 # detailed_text = enhance_text("world war 2")
-# print(detailed_text)
+print(detailed_text)

@@ -4,7 +4,8 @@ import os
 
 load_dotenv()
 secret_key = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=secret_key)
+
+genai.configure(api_key=sec)
 
 
 def enhance_text(input_string):
@@ -21,5 +22,5 @@ def enhance_text(input_string):
         return "World War 2 in battlefield when at night and in a rainy storm"
 
 
-# detailed_text = enhance_text("world war 2")
-# print(detailed_text)
+detailed_text = enhance_text("world war 2")
+print(detailed_text)
