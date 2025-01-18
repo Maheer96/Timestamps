@@ -1,2 +1,2 @@
-# timestamps
-a unity game catered for historical enthusiasts, enabling them to prompt their Quest VR machines in real-time, generating an immersive experience of the user's prompt
+# Timestamps 🕒
+#### a Unity-powered VR experience designed for history enthusiasts, allowing users to interact with their Quest VR devices in real-time to generate immersive, dynamic environments based on their prompts.
